@@ -1,4 +1,7 @@
 ## React Calculator using Next.js + TypeScript
+
+Demo Link: [http://ericisaiahperez.com/calculator-app](http://ericisaiahperez.com/calculator-app)
+
 This is a simple and responsive calculator built using React, Next.js App Router, and TypeScript. It performs basic arithmetic operations (addition, subtraction, multiplication, and division), using modern state management patterns with React Context and functional components.
 
 Created by [Eric Isaiah Perez](https://www.linkedin.com/in/eric-isaiah-perez-2b7700178/)
